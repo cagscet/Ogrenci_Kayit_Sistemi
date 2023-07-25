@@ -1,0 +1,11 @@
+C:\Users\Cetin\source\repos\OgrenciNotKayit\OgrenciNotKayit\bin\Debug\OgrenciNotKayit.exe.config
+C:\Users\Cetin\source\repos\OgrenciNotKayit\OgrenciNotKayit\bin\Debug\OgrenciNotKayit.exe
+C:\Users\Cetin\source\repos\OgrenciNotKayit\OgrenciNotKayit\bin\Debug\OgrenciNotKayit.pdb
+C:\Users\Cetin\source\repos\OgrenciNotKayit\OgrenciNotKayit\obj\Debug\OgrenciNotKayit.csproj.AssemblyReference.cache
+C:\Users\Cetin\source\repos\OgrenciNotKayit\OgrenciNotKayit\obj\Debug\OgrenciNotKayit.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cetin\source\repos\OgrenciNotKayit\OgrenciNotKayit\obj\Debug\OgrenciNotKayit.Form1.resources
+C:\Users\Cetin\source\repos\OgrenciNotKayit\OgrenciNotKayit\obj\Debug\OgrenciNotKayit.Properties.Resources.resources
+C:\Users\Cetin\source\repos\OgrenciNotKayit\OgrenciNotKayit\obj\Debug\OgrenciNotKayit.csproj.GenerateResource.cache
+C:\Users\Cetin\source\repos\OgrenciNotKayit\OgrenciNotKayit\obj\Debug\OgrenciNotKayit.csproj.CoreCompileInputs.cache
+C:\Users\Cetin\source\repos\OgrenciNotKayit\OgrenciNotKayit\obj\Debug\OgrenciNotKayit.exe
+C:\Users\Cetin\source\repos\OgrenciNotKayit\OgrenciNotKayit\obj\Debug\OgrenciNotKayit.pdb
